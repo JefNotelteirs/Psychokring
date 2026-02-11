@@ -1,0 +1,11 @@
+name = "Psychokring3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2f9431722e00a8db421ef50b07f1370e7dce80592fb802ce8d7c546118ded955"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.218"

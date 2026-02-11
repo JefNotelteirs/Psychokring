@@ -1,0 +1,13 @@
+name = "Baby Mobs"
+filename = "Baby Mobs.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2004d1f2582d1abb929e2505d34e3738a04ed5e1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7442172
+project-id = 1425453
