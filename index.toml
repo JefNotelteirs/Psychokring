@@ -591,11 +591,6 @@ hash = "18afbb4fd160f3835d3730a1f3d9e3f299902fbc6da223e0970bc5a77bcc9349"
 metafile = true
 
 [[files]]
-file = "mods/reliquified-twilight-forest.pw.toml"
-hash = "ea80cd43856df236cdfc3f5b2a826e2965eb83d4f35cf465ccbd61c4b5b02bf7"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
 metafile = true
